@@ -1,2 +1,5 @@
 # hello-world
-Jut another repository
+Hello,
+
+Here Divya. I like PHP and JS.
+I'm basically a net savie, love to learn new technologies.
